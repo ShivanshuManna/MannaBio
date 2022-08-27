@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXMannaXx
-- 👀 I’m interested in ...C++
-- 🌱 I’m currently learning ...DSA
+- 👀 I’m interested in ...Full Stack Development
+- 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...Just think of me.
 
