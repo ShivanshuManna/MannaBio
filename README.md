@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xXMannaXx
+- 👋 Hi, I’m @ShivanshuManna
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...Projects
